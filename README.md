@@ -17,3 +17,7 @@ Features
     Ability to "test" a set, cycling through random flashcards showing the front then the back of each randomly selected card
     Ability to add new cards to a set
     Ability to edit / delete sets
+
+Screenshot
+
+![screenshot of flashcards](http://i.imgur.com/JFufEsx.png)
