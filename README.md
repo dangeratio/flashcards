@@ -9,6 +9,7 @@ Installation:
     Build an initial cakephp project, setup SQL connections etc.
     Run the cakeflashcards.sql on your sql database to create the required tables
     Copy flashcard files into the directory of your cakephp project
+    You may also need to make ./app/tmp directory editable
 
 Features
 
